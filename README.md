@@ -1,5 +1,5 @@
 # instapy_pubprofiles
-Download Instagram Photos given Link to Photo (Only for Public Instagram Profiles)
+Download Instagram Photos given Link to Photo (Only for Public Instagram Profiles and !(Multiple Photo Posts))
 <br></br>
 How to run ? (just a formality)
 <br></br>
