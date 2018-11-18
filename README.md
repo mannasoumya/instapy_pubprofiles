@@ -11,6 +11,6 @@ How to run ? (just a formality)
 <br></br>
 <b>$ python3 script.py</b>
 <br></br>
-<b>Photo is downloaded in the cwd with a random id number and .jpg extension</b>
+<b>Media is downloaded in the cwd with a random id number and .jpg extension</b>
 
 
