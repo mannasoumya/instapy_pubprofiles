@@ -10,7 +10,7 @@ isort==4.3.4
 pipreqs==0.4.9
 pyparsing==2.3.0
 python-dateutil==2.7.5
-requests==2.20.1
+requests==2.31.0
 selenium==3.14.1
 six==1.11.0
 urllib3==1.26.5
